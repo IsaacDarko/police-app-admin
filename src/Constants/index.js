@@ -1,4 +1,23 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { 
+    toplogo,
+    halfelipse,
+    fullelipse,
+    heromobfront,
+    heromobrear,
+    featuresmaller,
+    featuresbigger,
+    btmlogo,
+    btmlogobg,
+    livereportbg,
+    reportbg,
+    supportbg,
+    connectbg,
+    building,
+    facebook,
+    instagram,
+    location,
+    phone,
+    twitter } from "../assets/home";
 
 export const navLinks = [
   {
@@ -23,23 +42,31 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Legit Report",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac a volutpat tellus neque, cursus natoque cras turpis. ",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Live Report",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac a volutpat tellus neque, cursus natoque cras turpis. ",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "24/7 Support",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac a volutpat tellus neque, cursus natoque cras turpis. ",
+  },
+
+  {
+    id: "feature-4",
+    icon: send,
+    title: "Easy Connect",
+    content:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac a volutpat tellus neque, cursus natoque cras turpis. ",
   },
 ];
 
